@@ -1,3 +1,20 @@
+##  Important Note on Viewing the Notebook
+
+GitHub may not render Jupyter Notebooks fully due to file size limitations. To view the notebook properly:
+
+- View as rendered HTML via **[NBviewer](https://nbviewer.org/)**: copy your notebook’s GitHub URL into NBviewer.
+- Or open and run it live using **Binder** (interactive environment): just launch your notebook from GitHub.
+
+---
+
+###  Example Links
+
+- **NBviewer Link**:  
+  https://nbviewer.org/github/your-username/Superstore-Sales-Analysis/blob/main/superstore_analysis.ipynb
+
+- **Binder Badge with Direct Launch**:  
+  `[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/your-username/Superstore-Sales-Analysis/main?filepath=superstore_analysis.ipynb)`
+
 # ​ Superstore Sales Analysis
 
 **A data analysis project using Python to uncover sales and profit insights from a Superstore dataset.**
